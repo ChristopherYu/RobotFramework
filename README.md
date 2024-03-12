@@ -8,4 +8,4 @@
 
 - for init db
 
-```docker-compose exec mong /mongo_seed/import.sh```
+```docker-compose exec mongo /mongo_seed/import.sh```
